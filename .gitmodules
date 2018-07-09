@@ -1,1 +1,6 @@
 
+
+[submodule "JazziMc/website"]
+	path = JazziMc/website
+	url = git@github.com:JazziMc/website.git
+	branch = 11.0
