@@ -9,3 +9,8 @@
 	path = JazziMc/website-cms
 	url = git@github.com:JazziMc/website-cms.git
 	branch = 11.0
+
+[submodule "JazziMc/project"]
+	path = JazziMc/project
+	url = git@github.com:JazziMc/project.git
+	branch = 11.0
