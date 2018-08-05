@@ -29,3 +29,8 @@
 	path = JazziMc/web
 	url = git@github.com:JazziMc/web.git
 	branch = 11.0
+
+[submodule "JazziMc/server-ux"]
+	path = JazziMc/server-ux
+	url = git@github.com:JazziMc/server-ux.git
+	branch = 11.0
