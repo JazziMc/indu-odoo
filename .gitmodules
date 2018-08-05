@@ -14,3 +14,8 @@
 	path = JazziMc/project
 	url = git@github.com:JazziMc/project.git
 	branch = 11.0
+
+[submodule "JazziMc/hr"]
+	path = JazziMc/hr
+	url = git@github.com:JazziMc/hr.git
+	branch = 11.0
