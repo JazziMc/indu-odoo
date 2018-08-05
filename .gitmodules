@@ -44,3 +44,8 @@
 	path = JazziMc/iot
 	url = git@github.com:JazziMc/iot.git
 	branch = 11.0
+
+[submodule "OCA/website-themes"]
+	path = OCA/website-themes
+	url = git@github.com:OCA/website-themes.git
+	branch = 11.0
