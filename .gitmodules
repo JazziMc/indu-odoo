@@ -34,3 +34,8 @@
 	path = JazziMc/server-ux
 	url = git@github.com:JazziMc/server-ux.git
 	branch = 11.0
+
+[submodule "OCA/social"]
+	path = OCA/social
+	url = git@github.com:OCA/social.git
+	branch = 11.0
