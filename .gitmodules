@@ -39,3 +39,8 @@
 	path = OCA/social
 	url = git@github.com:OCA/social.git
 	branch = 11.0
+
+[submodule "JazziMc/iot"]
+	path = JazziMc/iot
+	url = git@github.com:JazziMc/iot.git
+	branch = 11.0
