@@ -19,3 +19,8 @@
 	path = JazziMc/hr
 	url = git@github.com:JazziMc/hr.git
 	branch = 11.0
+
+[submodule "JazziMc/partner-contact"]
+	path = JazziMc/partner-contact
+	url = git@github.com:JazziMc/partner-contact.git
+	branch = 11.0
