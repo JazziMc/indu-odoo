@@ -39,3 +39,8 @@
 	path = JazziMc/iot
 	url = git@github.com:JazziMc/iot.git
 	branch = 11.0
+
+[submodule "JazziMc/access-addons"]
+	path = JazziMc/access-addons
+	url = git@github.com:JazziMc/access-addons.git
+	branch = 11B
