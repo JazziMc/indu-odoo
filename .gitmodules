@@ -44,3 +44,8 @@
 	path = JazziMc/access-addons
 	url = git@github.com:JazziMc/access-addons.git
 	branch = 11B
+
+[submodule "JazziMc/mail-addons"]
+	path = JazziMc/mail-addons
+	url = git@github.com:JazziMc/mail-addons.git
+	branch = 11b
