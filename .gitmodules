@@ -35,17 +35,7 @@
 	url = git@github.com:JazziMc/server-ux.git
 	branch = 11.0
 
-[submodule "JazziMc/social"]
-	path = JazziMc/social
-	url = git@github.com:JazziMc/social.git
-	branch = 11.0
-
 [submodule "JazziMc/iot"]
 	path = JazziMc/iot
 	url = git@github.com:JazziMc/iot.git
-	branch = 11.0
-
-[submodule "JazziMc/website-themes"]
-	path = JazziMc/website-themes
-	url = git@github.com:JazziMc/website-themes.git
 	branch = 11.0
