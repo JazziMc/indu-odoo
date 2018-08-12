@@ -49,3 +49,8 @@
 	path = JazziMc/mail-addons
 	url = git@github.com:JazziMc/mail-addons.git
 	branch = 11b
+
+[submodule "JazziMc/misc-addons"]
+	path = JazziMc/misc-addons
+	url = git@github.com:JazziMc/misc-addons.git
+	branch = 11b
