@@ -54,3 +54,8 @@
 	path = JazziMc/misc-addons
 	url = git@github.com:JazziMc/misc-addons.git
 	branch = 11b
+
+[submodule "JazziMc/purchase-workflow"]
+	path = JazziMc/purchase-workflow
+	url = git@github.com:JazziMc/purchase-workflow.git
+	branch = 11b
