@@ -9,3 +9,43 @@
 	path = JazziMc/website-cms
 	url = git@github.com:JazziMc/website-cms.git
 	branch = 11.0
+
+[submodule "JazziMc/project"]
+	path = JazziMc/project
+	url = git@github.com:JazziMc/project.git
+	branch = 11.0
+
+[submodule "JazziMc/hr"]
+	path = JazziMc/hr
+	url = git@github.com:JazziMc/hr.git
+	branch = 11.0
+
+[submodule "JazziMc/partner-contact"]
+	path = JazziMc/partner-contact
+	url = git@github.com:JazziMc/partner-contact.git
+	branch = 11.0
+
+[submodule "JazziMc/web"]
+	path = JazziMc/web
+	url = git@github.com:JazziMc/web.git
+	branch = 11.0
+
+[submodule "JazziMc/server-ux"]
+	path = JazziMc/server-ux
+	url = git@github.com:JazziMc/server-ux.git
+	branch = 11.0
+
+[submodule "JazziMc/iot"]
+	path = JazziMc/iot
+	url = git@github.com:JazziMc/iot.git
+	branch = 11.0
+
+[submodule "JazziMc/access-addons"]
+	path = JazziMc/access-addons
+	url = git@github.com:JazziMc/access-addons.git
+	branch = 11B
+
+[submodule "JazziMc/mail-addons"]
+	path = JazziMc/mail-addons
+	url = git@github.com:JazziMc/mail-addons.git
+	branch = 11b
