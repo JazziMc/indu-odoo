@@ -59,3 +59,8 @@
 	path = JazziMc/purchase-workflow
 	url = git@github.com:JazziMc/purchase-workflow.git
 	branch = 11b
+
+[submodule "JazziMc/odoo-eam"]
+	path = JazziMc/odoo-eam
+	url = git@github.com:JazziMc/odoo-eam.git
+	branch = 11b
