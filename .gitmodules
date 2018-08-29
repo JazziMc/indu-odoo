@@ -64,3 +64,8 @@
 	path = JazziMc/odoo-eam
 	url = git@github.com:JazziMc/odoo-eam.git
 	branch = 11b
+
+[submodule "JazziMc/website-themes"]
+	path = JazziMc/website-themes
+	url = git@github.com:JazziMc/website-themes.git
+	branch = 11B
